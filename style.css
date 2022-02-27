@@ -1,0 +1,62 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+#poster{
+    background-color: rgb(251, 255, 41);
+    width: 530px;
+    height: 650px;
+    padding-top: -10px;
+    object-fit: 10px;
+}
+
+.text {
+    text-align: left;
+    font-size: 11.0px;
+    display: column;
+    width: 100%;
+    margin-top:67px;
+    margin-left: 10px;
+  }
+
+.text1 {
+    text-align: center;
+    font-size: 15.0px;
+    width: 100%;
+    height: 150px;
+    margin-left: -5px;
+}
+
+.text2 {
+    margin-top: -245px;
+    text-align:right;
+    width: 96%;
+    margin-right: 20px;
+  }
+
+  .text--2 {
+    font-family: Arial, sans-serif;
+    font-weight: -25;
+    position: absolute;
+    display: inline;
+    font-size: 670px;
+    color: rgba(116, 0, 170, 0.726);
+    opacity: 0.8px;
+    margin-left: -25px;
+    margin-top: 30px;
+    width: 5px;
+  }
+
+  .text--3 {
+    font-family: Arial, sans-serif;
+    font-weight: -25;
+    position: absolute;
+    display: inline;
+    font-size: 670px;
+    color: rgba(176, 7, 255, 0.5);
+    opacity: 0.8px;
+    margin-left: 185px;
+    margin-top: 30px;
+    width: 5px;
+  }
